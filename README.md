@@ -1,16 +1,14 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**Cedz22/Cedz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cedrick, a 2nd year IT Student from Philippines.
 
-Here are some ideas to get you started:
+Exploring the coding to enhance my skills and developing web application
+to make a effecient web application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently studying to enhance my skills as an IT Student.
+
+Tools
+● Visual studio Code
+● Netbeans
+
+
